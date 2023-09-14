@@ -1,0 +1,2 @@
+usr/bin/salt-proxy
+pkg/common/salt-proxy@.service /lib/systemd/system

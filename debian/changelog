@@ -1,0 +1,5 @@
+salt (3006.2) UNRELEASED; urgency=medium
+
+  * Initial release. Package without onedir build
+
+ -- Lennard Diehl <ld@binsec.com>  Mon, 11 Sep 2023 08:18:36 +0200
